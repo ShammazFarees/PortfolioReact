@@ -8,7 +8,7 @@ const meta = {
 const introdata = {
     title: "I’m Mohamed Shammas",
     animated: {
-        first: "Computer Enginnering Undergraduate",
+        first: "Computer Engineering Undergraduate",
         second: "AI/ML Specialist",
         third: "Frontend Developer",
     },
