@@ -1,8 +1,8 @@
 import meImage from './assets/images/me.jpg';
 import myPortfolio from './assets/images/portfolio.png';
 import lms from './assets/images/lms.jpg';
-import ethmarket from './assets/images/ethmarket.jpg';
-import anomalyDetection from './assets/images/AnomalyDetection.jpg';
+import ethmarket from './assets/images/ethMarket.jpg';
+import anomalyDetection from './assets/images/anomalyDetection.jpg';
 const logotext = "PORTFOLIO";
 const meta = {
     title: "Shammas",
