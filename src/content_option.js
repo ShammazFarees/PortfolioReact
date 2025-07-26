@@ -9,10 +9,10 @@ const introdata = {
     title: "I’m Mohamed Shammas",
     animated: {
         first: "Computer Engineering Undergraduate",
-        second: "AI/ML Specialist",
-        third: "Frontend Developer",
+        second: "Full-Stack Developer",
+        third: "AI Enthusiast",
     },
-    description: "Building Scalable Frontend Systems and High-Accuracy Machine Learning Solutions",
+    description: "Building Scalable Full Stack Systems and Highly-Rated Solutions",
     your_img_url: meImage,
 };
 
@@ -68,10 +68,6 @@ const services = [{
         description: "I craft fast, responsive web interfaces using React.js, JavaScript, and modern CSS. Whether you need a dynamic single-page app, a UI overhaul, or performance optimization (like the 40% faster search I built for my Library Management System), I focus on clean code and intuitive design. My frontend work is backed by rigorous testing and a mobile-first approach.",
     },
     {
-        title: "AI & Machine Learning Solutions",
-        description: "From concept to deployment, I build production-ready AI systems tailored to your data. My expertise includes computer vision (YOLO models for medical imaging), time-series forecasting (like my Ethereum price prediction project), and integrating ML models into web apps via Flask APIs. Need to improve model accuracy? I boosted a tumor detection system’s performance by 30% through architecture tuning—let’s discuss your goals.",
-    },
-    {
         title: "Full-Stack & Process Automation",
         description: "I bridge frontend and backend to deliver scalable web applications. Using Python (Flask) and SQL, I’ve built systems handling 1,000+ records (like my Library Management project) and automated workflows (saving 10+ hours weekly at my ERP internship). If you’re drowning in repetitive tasks, I’ll design scripts or tools to streamline operations—just as I reduced data validation errors by 15%.",
     },
@@ -83,64 +79,23 @@ const services = [{
 
 const dataportfolio = [{
         img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        description: "My Personal Portfolio",
+        link: "https://github.com/ShammazFarees/PortfolioReact",
     },
     {
         img: "https://picsum.photos/400/800/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        description: "Library Management System",
+        link: "https://github.com/ShammazFarees/LibraryManagement",
     },
     {
         img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        description: "Network Anomaly Detection System",
+        link: "https://github.com/ShammazFarees/AnomalyDetection",
     },
     {
         img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/700/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-
-    {
-        img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/550/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/700/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        description: "Ethereum Price Prediction",
+        link: "https://github.com/ShammazFarees/ETHmarket",
     },
 ];
 
