@@ -1,6 +1,8 @@
 import meImage from './assets/images/me.jpg';
 import myPortfolio from './assets/images/portfolio.png';
 import lms from './assets/images/lms.jpg';
+import ethmarket from './assets/images/ethmarket.jpg';
+import anomalyDetection from './assets/images/AnomalyDetection.jpg';
 const logotext = "PORTFOLIO";
 const meta = {
     title: "Shammas",
@@ -90,12 +92,12 @@ const dataportfolio = [{
         link: "https://github.com/ShammazFarees/LibraryManagement",
     },
     {
-        img: "https://picsum.photos/400/?grayscale",
+        img: anomalyDetection,
         description: "Network Anomaly Detection System",
         link: "https://github.com/ShammazFarees/AnomalyDetection",
     },
     {
-        img: "https://picsum.photos/400/600/?grayscale",
+        img: ethmarket,
         description: "Ethereum Price Prediction",
         link: "https://github.com/ShammazFarees/ETHmarket",
     },
