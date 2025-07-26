@@ -1,4 +1,6 @@
 import meImage from './assets/images/me.jpg';
+import myPortfolio from './assets/images/portfolio.png';
+import lms from './assets/images/lms.jpg';
 const logotext = "PORTFOLIO";
 const meta = {
     title: "Shammas",
@@ -78,12 +80,12 @@ const services = [{
 ];
 
 const dataportfolio = [{
-        img: "https://picsum.photos/400/?grayscale",
+        img: myPortfolio,
         description: "My Personal Portfolio",
         link: "https://github.com/ShammazFarees/PortfolioReact",
     },
     {
-        img: "https://picsum.photos/400/800/?grayscale",
+        img: lms,
         description: "Library Management System",
         link: "https://github.com/ShammazFarees/LibraryManagement",
     },
